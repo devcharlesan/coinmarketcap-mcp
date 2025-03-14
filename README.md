@@ -9,7 +9,7 @@ Before running, please get an API key from https://coinmarketcap.com/api/ and la
 Then, run `python main.py` to begin chatting.
 
 
-There is a test suite provided with [test_comparison.py](https://github.com/devcharlesan/coinmarketcap-mcp/blob/main/test_comparison.py) handles prompts from [test_prompts.py](https://github.com/devcharlesan/coinmarketcap-mcp/blob/main/test_prompts.py). The output is in [test_results](https://github.com/devcharlesan/coinmarketcap-mcp/blob/main/test_results/comparison_results_20250314_180718.json). Run `python test_comparison.py` to initiate testing.
+There is a test suite provided with [test_comparison.py](https://github.com/devcharlesan/coinmarketcap-mcp/blob/main/test_comparison.py) handles prompts from [test_prompts.py](https://github.com/devcharlesan/coinmarketcap-mcp/blob/main/test_prompts.py). The output is in [test_results](https://github.com/devcharlesan/coinmarketcap-mcp/blob/ed71aa3fc4a132df360127d65084b661f7500722/test_results/comparison_results_20250313_180718.json). Run `python test_comparison.py` to initiate testing.
 
 ## Available Tools for Llama
 
